@@ -1,0 +1,267 @@
+﻿body {
+font-family: Arial;
+margin: 0px;
+background-color: rgba(22, 33, 62, 1);
+}
+
+.flex_container {
+	background-color: #0F3460;
+	height: 74px;
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+	display: flex;
+
+}
+
+.flex_container h2 {
+	color: white;
+	margin-left: 20px;
+	position: relative;
+	top: 5px;
+}
+a {
+	color: white;
+	text-decoration: none;
+
+}
+
+.flex_item1 {
+font-size: 25px;
+margin-top: -6%;
+margin-left: 146px;
+
+
+}
+.flex_item2 img {
+	position: relative;
+	right: 65px;
+	top: 10px;
+	width: 60px;
+	height: 0px;
+	border: 2.2px solid #FFFFFF;
+
+}
+.flex_item2 {
+	position: relative;
+	left: 70px;
+}
+.sign_up {
+	box-sizing: border-box;
+position: absolute;
+background-color: transparent;
+left: 70.56%;
+right: 20.49%;
+top: 2.64%;
+bottom: 91.98%;
+
+border: 3px solid #FFFFFF;
+border-radius: 10px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
+
+
+color: white;
+cursor: pointer;
+}
+
+.login {
+	box-sizing: border-box;
+position: absolute;
+background-color: white;
+left: 80.87%;
+right: 10.17%;
+top: 2.59%;
+bottom: 92.03%;
+
+border: 3px solid #FFFFFF;
+border-radius: 10px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
+
+
+color: black;
+cursor: pointer;
+}
+.heading {
+	font-family: Montserrat;
+font-size: 40px;
+font-weight: 700;
+line-height: 49px;
+letter-spacing: 0em;
+text-align: center;
+height: 49px;
+width: 448px;
+left: 146px;
+top: 70px;
+border-radius: nullpx;
+position: relative;
+color: white;
+}
+
+.sub_text {
+	font-family: Montserrat;
+font-size: 30px;
+font-weight: 400;
+position:relative;
+line-height: 37px;
+letter-spacing: 0em;
+text-align: left;
+height: 143px;
+width: 687px;
+left: 146px;
+top: 70px;
+border-radius: nullpx;
+color:white;
+}
+.cover {
+	height: 412px;
+width: 425px;
+left: 868px;
+bottom: 250px;
+border-radius: 0px;
+position: relative;
+}
+.try {
+	position: absolute;
+width: 200px;
+height: 50px;
+left: 147.5px;
+top: 388px;
+
+background: #E94560;
+border-radius: 10px;
+font-family: Montserrat;
+font-size: 20px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: center;
+cursor: pointer;
+border: none;
+}
+.snickers {
+	position: absolute;
+width: 134px;
+height: 132px;
+left: 324px;
+top: 500px;
+
+background: #533483;
+border-radius: 100px;
+align-items: center;
+display: flex;
+}
+
+.snickers img {
+	position: absolute;
+width: 85px;
+height: 79px;
+top: 25px;
+left: 27px;
+}
+.shoes {
+	height: 30px;
+width: 77px;
+position: relative;
+top: -150px;
+left: 350px;
+border-radius: nullpx;
+font-family: Montserrat;
+font-size: 25px;
+font-weight: 500;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+color: white;
+}
+.card {
+	background: rgba(15, 52, 96, 1);
+height: 122px;
+width: 319px;
+position: absolute;
+width: 319px;
+height: 122px;
+left: 247px;
+top: 849px;
+
+background: #0F3460;
+border-radius: 0px 0px 10px 10px;
+border-radius: [object Object]px;
+
+}
+
+
+.card_upper {
+	background: rgba(233, 69, 96, 1);
+height: 20px;
+width: 319px;
+position: absolute;
+width: 319px;
+height: 20px;
+
+
+background: #E94560;
+border-radius: 10px 10px 0px 0px;
+
+}
+
+.card {
+	background: rgba(15, 52, 96, 1);
+height: 122px;
+width: 319px;
+position: absolute;
+width: 319px;
+height: 122px;
+
+margin-bottom: -120px;
+background: #0F3460;
+border-radius: 0px 0px 10px 10px;
+
+
+}
+
+.card h2 {
+	height: 38px;
+width: 24px;
+font-family: Montserrat;
+font-size: 25px;
+font-weight: 700;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: center;
+
+color: white;
+position: relative;
+top: 18px;
+left: 120px;
+}
+.footer {
+	height: 50px;
+width: 100%;
+background: rgba(15, 52, 96, 1);
+position: absolute;
+margin-top: 68px;
+border-radius: 0px;
+}
+.footer p {
+	height: 17.14285659790039px;
+width: 139px;
+font-family: Montserrat;
+font-size: 16px;
+font-weight: 500;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: center;
+color: white;
+}
